@@ -14,6 +14,7 @@
 		A23D654B23FEEBC200AD2E44 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A23D654923FEEBC200AD2E44 /* Main.storyboard */; };
 		A23D654D23FEEBC400AD2E44 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A23D654C23FEEBC400AD2E44 /* Assets.xcassets */; };
 		A23D655023FEEBC400AD2E44 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A23D654E23FEEBC400AD2E44 /* LaunchScreen.storyboard */; };
+		A23D655823FEEC6D00AD2E44 /* Assignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23D655723FEEC6D00AD2E44 /* Assignment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A23D654C23FEEBC400AD2E44 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A23D654F23FEEBC400AD2E44 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A23D655123FEEBC400AD2E44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A23D655723FEEC6D00AD2E44 /* Assignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				A23D654123FEEBC200AD2E44 /* AppDelegate.swift */,
 				A23D654323FEEBC200AD2E44 /* SceneDelegate.swift */,
 				A23D654523FEEBC200AD2E44 /* MasterViewController.swift */,
+				A23D655723FEEC6D00AD2E44 /* Assignment.swift */,
 				A23D654723FEEBC200AD2E44 /* DetailViewController.swift */,
 				A23D654923FEEBC200AD2E44 /* Main.storyboard */,
 				A23D654C23FEEBC400AD2E44 /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 				A23D654223FEEBC200AD2E44 /* AppDelegate.swift in Sources */,
 				A23D654423FEEBC200AD2E44 /* SceneDelegate.swift in Sources */,
 				A23D654623FEEBC200AD2E44 /* MasterViewController.swift in Sources */,
+				A23D655823FEEC6D00AD2E44 /* Assignment.swift in Sources */,
 				A23D654823FEEBC200AD2E44 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
